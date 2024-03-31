@@ -1,6 +1,6 @@
-# Hi 👋! My name is Gyanendra
+# Hi! I'm Gyanendra
 
-I am a passionate full stack web developer exploring the fields of ML and cloud. I love programming and learning new things. I have worked on multiple projects and enjoy building from scratch. I am always ready to collaborate with others. My skillset includes proficiency in programming languages like **C, C++, Java, Python, PHP, and JavaScript**. I has also hands on experience in **MySQL and MongoDB** databases. I have also explored basic development in **Flutter**.
+I am **Full Stack Web Developer** and exploring the fields of ML and Cloud. I have worked on multiple projects and enjoy building from scratch. I am always ready to collaborate with others. My skillset includes proficiency in programming languages like **C, C++, Java, Python, PHP, and JavaScript**. I has also hands on experience in **MySQL and MongoDB** databases. I have also explored basic development in **Flutter**.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
@@ -16,6 +16,8 @@ I am a passionate full stack web developer exploring the fields of ML and cloud.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img width="12" />
