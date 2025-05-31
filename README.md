@@ -99,9 +99,10 @@ I've worked on various full-stack projects and enjoy the intersection of softwar
 
 I enjoy building tools that go beyond just "getting it to work"—I aim to understand how things function under the hood. Here are a few projects I've created for learning and experimentation:
 
+- [**fastgo**](https://github.com/gyanendra-baghel/fastgo) – web framework for Go – inspired by Express.js.
+- [**Shatranj**](https://github.com/gyanendra-baghel/shatranj) – JS library for chess with HTML canvas ([Demo](https://shatranj-demo.vercel.app/))
 - [**Ryxo**](https://github.com/gyanendra-baghel/ryxo) – A lightweight PHP framework ([Packagist](https://packagist.org/packages/ryxo/ryxo))
 - [**jShort**](https://github.com/gyanendra-baghel/jShort) – DOM manipulation library inspired by jQuery
-- [**fastgo**](https://github.com/gyanendra-baghel/fastgo) – web framework for Go – inspired by Express.js.
 
 <br>
 
