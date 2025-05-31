@@ -18,7 +18,7 @@ I've worked on various full-stack projects and enjoy the intersection of softwar
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-<!--       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" /> -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
     </td>
@@ -101,7 +101,7 @@ I enjoy building tools that go beyond just "getting it to work"—I aim to under
 
 - [**Ryxo**](https://github.com/gyanendra-baghel/ryxo) – A lightweight PHP framework ([Packagist](https://packagist.org/packages/ryxo/ryxo))
 - [**jShort**](https://github.com/gyanendra-baghel/jShort) – DOM manipulation library inspired by jQuery
-- [**FastJs**](https://github.com/gyanendra-baghel/fastjs) – An Express.js clone built from scratch
+- [**fastgo**](https://github.com/gyanendra-baghel/fastgo) – web framework for Go – inspired by Express.js.
 
 <br>
 
